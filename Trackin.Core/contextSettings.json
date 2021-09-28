@@ -1,0 +1,12 @@
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Debug",
+            "System": "Information",
+            "Microsoft": "Information"
+        }
+    },
+    "DbSection": {
+        "ConnectionString": "server=.;database=tracking;trusted_connection=true;"
+    }
+}
